@@ -1,6 +1,8 @@
 # BOOTIFUL UI: Date and Time Picker
 
-### 'npm run start' to view
+Updated version deployed at https://tarribul-ui.netlify.app/
+
+### 'npm run start' to view OG
 
 ![bootiful sun](src/assets/sun1.png "Bootiful Sun")
 
